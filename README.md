@@ -9,3 +9,5 @@ In these workbooks, I use divvy data to help build simple regression models on 2
 2) historical station activity 
 
 to predict the number of arrivals and departures at each station during each hour of the day. I then evaluate the model performance on out of test 2017 data, and slice it by different features to see how well the model is performing.
+
+Update: the City of Chicago recently released data which has number of bikes available and not available by station every 10 minutes. This data can be extremely predictive and will be added in to the analysis to see if it improves model performance.
